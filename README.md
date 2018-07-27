@@ -1,0 +1,1 @@
+# negset-svg-icon
