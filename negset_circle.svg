@@ -8,8 +8,8 @@
   </clipPath>
 
   <g clip-path="url(#circle-clip)">
-    <rect x="0" y="0" width="1024" height="1024" fill="#607d8b" stroke="none" stroke-width="0" />
-    <path fill="#fff" stroke="none" stroke-width="0"
+    <rect x="0" y="0" width="1024" height="1024" fill="#607d8b" stroke="none" />
+    <path fill="#fff" stroke="none"
         d="M 145.88,276.70
            C 145.88,276.70 145.88,295.06 145.88,295.06
              145.88,295.06 146.95,295.06 146.95,295.06
@@ -145,12 +145,12 @@
              895.86,388.48 899.64,387.76 902.70,386.31
              902.70,386.31 911.34,407.66 911.34,407.66
              905.94,409.99 899.27,411.16 891.36,411.16 Z" />
-    <g fill="#a4ca39" stroke="none" stroke-width="0">
+    <g fill="#a4ca39" stroke="none">
       <rect x="-120" y="480" width="54" height="240" rx="27" ry="27" transform="rotate(-30)"/>
      <rect x="952" y="-32" width="54" height="240" rx="27" ry="27" transform="rotate(30)"/>
       <circle cx="512" cy="1124" r="542" />
     </g>
-    <g fill="#607d8b" stroke="none" stroke-width="0">
+    <g fill="#607d8b" stroke="none">
       <circle cx="308" cy="820" r="42" />
       <circle cx="716" cy="820" r="42" />
     </g>
